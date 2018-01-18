@@ -1,0 +1,39 @@
+* {
+box-sizing: border-box;
+}
+
+div {
+  border: solid black 1px;
+  margin: 1px;
+}
+
+#logo {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+#title {
+  width: 900px;
+  height: 100px;
+  float: left;
+}
+
+#nav {
+  width: 100px;
+  height: 400px;
+  float: left;
+  clear: left;
+}
+
+#main {
+  width: 900px;
+  height: 400px;
+  float: left;
+}
+
+#footer {
+  width: 1002px;
+  height: 100px;
+  float: left;
+}
